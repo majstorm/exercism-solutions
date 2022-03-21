@@ -1,6 +1,5 @@
 package speed
 
-// TODO: define the 'Car' type struct
 type Car struct {
 	battery, batteryDrain, speed, distance int
 }
